@@ -1,0 +1,33 @@
+
+.Left_div{
+	max-width: 30%;
+	float: left;
+	text-align: justify;
+	padding: 10%;
+}
+.Right_div{
+	max-width: 30%;
+	float: left;
+	text-align: justify;
+	padding: 10%;
+}
+
+h1{
+	width: 100%;
+	color : blue;
+	text-align: center;
+}
+
+h2{
+	color:blue;
+}
+
+body{
+	font-family: 'Times New Roman', Times, serif;
+	font-style: italic;
+}
+
+p,li,abbr{
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	color: cadetblue;
+}

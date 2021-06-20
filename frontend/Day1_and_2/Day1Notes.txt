@@ -1,0 +1,35 @@
+Comments:  <!-- -->
+<html>, <head>, <body>, <p>, <h1>
+<br> (self enclosing tag), <hr> (gives horizontal line and partition)
+
+<div> : if we can't fix how to set this content in which section then put it in a div , it's a block line element
+<span> : its a inline tag
+
+HTML-attributes: 
+	1) <a> : href="reference location", target="_blank"(open in new window)
+	2) <img> : src="image_source", width="xx", height="xx"
+
+
+HTML-formatting:
+	1)<b> : bold-tag.
+	2) <strong> : little more bold than <b>.
+	3) <em> : emphesises
+	4) <sub> : putting in subscript.
+	5) <sup> : putting in superscript.
+	6) <del> : put cross-line over content.
+	
+	
+HTML-Lists:
+	1) <ul> : unordered list -Main
+	2) <ol> : ordered list -Main
+	3) <li> : list elements -Child of above main
+	4) <dl> : discriptive list -Main
+	5) <dt> : discriptive term -Child of dt
+	6) <dd> : put dt terms discription -GrandChild of dl
+	
+	
+HTML-TABLES:
+	1) <table> : main for table creation
+	2) <tr> : as for making a table row
+	3) <th> : table header.
+	4) <td> : table data

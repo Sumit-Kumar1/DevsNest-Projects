@@ -3,13 +3,16 @@
 	max-width: 30%;
 	float: left;
 	text-align: justify;
-	padding: 10%;
+	padding: 8%;
+	border: 2px solid black;
+	border-collapse: collapse;
 }
 .Right_div{
 	max-width: 30%;
 	float: left;
 	text-align: justify;
-	padding: 10%;
+	padding: 8%;
+	border: 2px solid black;
 }
 
 h1{
